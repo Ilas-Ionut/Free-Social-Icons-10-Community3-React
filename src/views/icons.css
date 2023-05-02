@@ -1,0 +1,3735 @@
+.icons-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.icons-icons {
+  width: 100%;
+  height: 436px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(27, 42, 67, 1);
+}
+.icons-facebook {
+  top: 24px;
+  left: 92px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-twitter {
+  top: 24px;
+  left: 160px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-you-tube {
+  top: 24px;
+  left: 228px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo {
+  top: 13px;
+  left: 8px;
+  width: 32px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-svg1 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 22px;
+  position: absolute;
+}
+.icons-svg2 {
+  top: 6.285714149475098px;
+  left: 12.795891761779785px;
+  width: 8px;
+  height: 9px;
+  position: absolute;
+}
+.icons-instagram {
+  top: 24px;
+  left: 24px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box01 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo01 {
+  top: 8px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-svg3 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.icons-svg201 {
+  top: 7.783789157867432px;
+  left: 7.783789157867432px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.icons-svg101 {
+  top: 5.539144515991211px;
+  left: 22.620851516723633px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.icons-telegram {
+  top: 24px;
+  left: 568px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-discord {
+  top: 24px;
+  left: 636px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box02 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo02 {
+  top: 12px;
+  left: 8px;
+  width: 32px;
+  height: 25px;
+  position: absolute;
+}
+.icons-whats-app {
+  top: 24px;
+  left: 500px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box03 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo03 {
+  top: 8px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-svg202 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.icons-svg102 {
+  top: 8.533483505249023px;
+  left: 7.970778465270996px;
+  width: 16px;
+  height: 15px;
+  position: absolute;
+}
+.icons-figma {
+  top: 92px;
+  left: 636px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box04 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo04 {
+  top: 9px;
+  left: 14px;
+  width: 20px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-svg5 {
+  top: 20px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.icons-svg4 {
+  top: 10px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.icons-svg31 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.icons-svg203 {
+  top: 0px;
+  left: 10px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.icons-svg103 {
+  top: 10px;
+  left: 10px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.icons-sketch {
+  top: 92px;
+  left: 568px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box05 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo05 {
+  top: 10px;
+  left: 8px;
+  width: 32px;
+  height: 29px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 29px;
+  position: absolute;
+}
+.icons-svg8 {
+  top: 10.340957641601562px;
+  left: 0px;
+  width: 16px;
+  height: 19px;
+  position: absolute;
+}
+.icons-svg7 {
+  top: 10.340957641601562px;
+  left: 31.99995994567871px;
+  width: 16px;
+  height: 19px;
+  position: absolute;
+}
+.icons-svg6 {
+  top: 10.340957641601562px;
+  left: 6.480796813964844px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.icons-svg51 {
+  top: 0px;
+  left: 6.480796813964844px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.icons-svg41 {
+  top: 0px;
+  left: 25.51915740966797px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.icons-svg32 {
+  top: 0.9547863006591797px;
+  left: 32px;
+  width: 7px;
+  height: 9px;
+  position: absolute;
+}
+.icons-svg204 {
+  top: 0.9547863006591797px;
+  left: 0px;
+  width: 7px;
+  height: 9px;
+  position: absolute;
+}
+.icons-svg104 {
+  top: 0px;
+  left: 6.480796813964844px;
+  width: 19px;
+  height: 10px;
+  position: absolute;
+}
+.icons-wikipedia {
+  top: 364px;
+  left: 1044px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box06 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo06 {
+  top: 16px;
+  left: 8px;
+  width: 32px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons--left {
+  top: 0px;
+  left: 0px;
+  width: 23.26342010498047px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-v {
+  top: 0px;
+  left: 0px;
+  width: 23px;
+  height: 20px;
+  position: absolute;
+}
+.icons--right {
+  top: 0px;
+  left: 8.736579895019531px;
+  width: 23.26342010498047px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-v1 {
+  top: 0px;
+  left: 0px;
+  width: 23px;
+  height: 20px;
+  position: absolute;
+}
+.icons-notion {
+  top: 92px;
+  left: 840px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box07 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo07 {
+  top: 10px;
+  left: 10px;
+  width: 27px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path001 {
+  top: 0px;
+  left: 0px;
+  width: 27px;
+  height: 28px;
+  position: absolute;
+}
+.icons-shape {
+  top: 0px;
+  left: 0px;
+  width: 27px;
+  height: 28px;
+  position: absolute;
+}
+.icons-mastercard {
+  top: 228px;
+  left: 296px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box08 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo08 {
+  top: 14px;
+  left: 8px;
+  width: 32px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-fill1 {
+  top: 2.138129949569702px;
+  left: 11.673365592956543px;
+  width: 9px;
+  height: 16px;
+  position: absolute;
+}
+.icons-fill2 {
+  top: 0.00008333298319485039px;
+  left: 0px;
+  width: 16px;
+  height: 20px;
+  position: absolute;
+}
+.icons-fill4 {
+  top: 0px;
+  left: 16px;
+  width: 16px;
+  height: 20px;
+  position: absolute;
+}
+.icons-visa {
+  top: 228px;
+  left: 364px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box09 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo09 {
+  top: 19px;
+  left: 7px;
+  width: 34px;
+  height: 11px;
+  position: absolute;
+}
+.icons-mcdonalds {
+  top: 364px;
+  left: 568px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-slack {
+  top: 160px;
+  left: 1044px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box10 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo10 {
+  top: 8px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-shape01 {
+  top: 0px;
+  left: 0.0000032273069336952176px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.icons-shape02 {
+  top: 0px;
+  left: 17.06659507751465px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.icons-shape03 {
+  top: 17.066631317138672px;
+  left: 17.066593170166016px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.icons-shape04 {
+  top: 17.066631317138672px;
+  left: 0px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.icons-trello {
+  top: 228px;
+  left: 24px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box11 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo11 {
+  top: 12px;
+  left: 12px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.icons-mailchimp {
+  top: 92px;
+  left: 908px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box12 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-group2 {
+  top: 8px;
+  left: 8px;
+  width: 30px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-group {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-shape05 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 32px;
+  position: absolute;
+}
+.icons-shape06 {
+  top: 14.718801498413086px;
+  left: 15.970635414123535px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.icons-path002 {
+  top: 14.077293395996094px;
+  left: 17.248291015625px;
+  width: 1px;
+  height: 3px;
+  position: absolute;
+}
+.icons-burger-king {
+  top: 364px;
+  left: 704px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box13 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo12 {
+  top: 8px;
+  left: 9px;
+  width: 30px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-shape07 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 32px;
+  position: absolute;
+}
+.icons-shape08 {
+  top: 10.062479972839355px;
+  left: 0px;
+  width: 30px;
+  height: 16px;
+  position: absolute;
+}
+.icons-tumblr {
+  top: 24px;
+  left: 1044px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-in-vision {
+  top: 92px;
+  left: 704px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box14 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo13 {
+  top: 10px;
+  left: 8px;
+  width: 32px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path003 {
+  top: 0px;
+  left: 4.271801471710205px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.icons-path004 {
+  top: 7.891067981719971px;
+  left: 0px;
+  width: 32px;
+  height: 19px;
+  position: absolute;
+}
+.icons-xd {
+  top: 296px;
+  left: 840px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box15 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo14 {
+  top: 14px;
+  left: 10px;
+  width: 29px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-svg205 {
+  top: 1.4942889213562012px;
+  left: 0px;
+  width: 16px;
+  height: 18px;
+  position: absolute;
+}
+.icons-svg105 {
+  top: 0px;
+  left: 16.25615692138672px;
+  width: 13px;
+  height: 20px;
+  position: absolute;
+}
+.icons-creative-cloud {
+  top: 296px;
+  left: 1044px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box16 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo15 {
+  top: 12.000165939331055px;
+  left: 8px;
+  width: 32px;
+  height: 24px;
+  position: absolute;
+}
+.icons-photoshop {
+  top: 296px;
+  left: 772px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box17 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo16 {
+  top: 14px;
+  left: 11px;
+  width: 26px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-shape09 {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 20px;
+  position: absolute;
+}
+.icons-path005 {
+  top: 4.592592716217041px;
+  left: 15.535588264465332px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+}
+.icons-premiere-pro {
+  top: 364px;
+  left: 24px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box18 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo17 {
+  top: 14px;
+  left: 11px;
+  width: 26px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-shape10 {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 20px;
+  position: absolute;
+}
+.icons-path006 {
+  top: 4.529629230499268px;
+  left: 16.71336555480957px;
+  width: 9px;
+  height: 15px;
+  position: absolute;
+}
+.icons-after-effects {
+  top: 364px;
+  left: 92px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box19 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-ae {
+  top: 14px;
+  left: 8px;
+  width: 33px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-shape11 {
+  top: 0px;
+  left: 0px;
+  width: 18px;
+  height: 20px;
+  position: absolute;
+}
+.icons-shape12 {
+  top: 4.488668918609619px;
+  left: 19.374317169189453px;
+  width: 14px;
+  height: 16px;
+  position: absolute;
+}
+.icons-illustrator {
+  top: 296px;
+  left: 908px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box20 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo18 {
+  top: 14px;
+  left: 11px;
+  width: 24px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-shape13 {
+  top: 1.409691572189331px;
+  left: 0px;
+  width: 18px;
+  height: 19px;
+  position: absolute;
+}
+.icons-shape14 {
+  top: 0px;
+  left: 19.498430252075195px;
+  width: 5px;
+  height: 20px;
+  position: absolute;
+}
+.icons-adobe {
+  top: 296px;
+  left: 704px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box21 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo5 {
+  top: 12px;
+  left: 10px;
+  width: 28px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-logo4 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-logo3 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-logo2 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-logo19 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path007 {
+  top: 0px;
+  left: 17.650531768798828px;
+  width: 10px;
+  height: 25px;
+  position: absolute;
+}
+.icons-path008 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 25px;
+  position: absolute;
+}
+.icons-path009 {
+  top: 9.213868141174316px;
+  left: 9.478795051574707px;
+  width: 11px;
+  height: 16px;
+  position: absolute;
+}
+.icons-shutterstock {
+  top: 92px;
+  left: 500px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box22 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo20 {
+  top: 9px;
+  left: 12px;
+  width: 24px;
+  height: 30px;
+  position: absolute;
+}
+.icons-react {
+  top: 92px;
+  left: 160px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box23 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo21 {
+  top: 10px;
+  left: 8px;
+  width: 32px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-oval {
+  top: 11.201410293579102px;
+  left: 13.147826194763184px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.icons-oval1 {
+  top: 7.583720684051514px;
+  left: 0px;
+  width: 32px;
+  height: 13px;
+  position: absolute;
+}
+.icons-shape15 {
+  top: 0px;
+  left: 6.13214635848999px;
+  width: 20px;
+  height: 28px;
+  position: absolute;
+}
+.icons-shape16 {
+  top: 0px;
+  left: 6.13214635848999px;
+  width: 20px;
+  height: 28px;
+  position: absolute;
+}
+.icons-webflow {
+  top: 92px;
+  left: 772px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-litecoin-ltc {
+  top: 296px;
+  left: 364px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-uniswap-uni {
+  top: 296px;
+  left: 228px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box24 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo22 {
+  top: 6.19851016998291px;
+  left: 6.887506008148193px;
+  width: 31.561208724975586px;
+  height: 35.52667999267578px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-shape17 {
+  top: 0px;
+  left: 0px;
+  width: 11px;
+  height: 30px;
+  position: absolute;
+}
+.icons-path010 {
+  top: 3.1665682792663574px;
+  left: 9.156033515930176px;
+  width: 20px;
+  height: 12px;
+  position: absolute;
+}
+.icons-path011 {
+  top: 3.820132255554199px;
+  left: 22.66449737548828px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.icons-path012 {
+  top: 4.15135383605957px;
+  left: 9.044938087463379px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.icons-path013 {
+  top: 12.187825202941895px;
+  left: 18.694501876831055px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+.icons-path014 {
+  top: 18.079452514648438px;
+  left: 12.361272811889648px;
+  width: 10px;
+  height: 7px;
+  position: absolute;
+}
+.icons-path015 {
+  top: 19.075679779052734px;
+  left: 22.8785400390625px;
+  width: 7px;
+  height: 13px;
+  position: absolute;
+}
+.icons-path016 {
+  top: 26.71780776977539px;
+  left: 6.913181304931641px;
+  width: 17px;
+  height: 9px;
+  position: absolute;
+}
+.icons-shape18 {
+  top: 13.962937355041504px;
+  left: 10.175570487976074px;
+  width: 4px;
+  height: 3px;
+  position: absolute;
+}
+.icons-ripple-xrp {
+  top: 228px;
+  left: 1044px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box25 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo23 {
+  top: 12px;
+  left: 10px;
+  width: 28px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path017 {
+  top: 0px;
+  left: 0.05236588045954704px;
+  width: 28px;
+  height: 11px;
+  position: absolute;
+}
+.icons-path018 {
+  top: 12.9729642868042px;
+  left: 0px;
+  width: 28px;
+  height: 11px;
+  position: absolute;
+}
+.icons-cardano-ada {
+  top: 296px;
+  left: 92px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box26 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo24 {
+  top: 9px;
+  left: 8px;
+  width: 32px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path019 {
+  top: 12.827908515930176px;
+  left: 8.762325286865234px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.icons-path020 {
+  top: 14.331792831420898px;
+  left: 0px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path021 {
+  top: 0.8648447394371033px;
+  left: 7.616199493408203px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path022 {
+  top: 4.002005577087402px;
+  left: 9.256952285766602px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-path023 {
+  top: 7.077736854553223px;
+  left: 3.061666488647461px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-path024 {
+  top: 13.933405876159668px;
+  left: 3.6347873210906982px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-path025 {
+  top: 21.178239822387695px;
+  left: 3.0920825004577637px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-path026 {
+  top: 9.318611145019531px;
+  left: 7.188814640045166px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.icons-path027 {
+  top: 3.97426176071167px;
+  left: 20.542491912841797px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-path028 {
+  top: 0.8285437226295471px;
+  left: 22.925207138061523px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path029 {
+  top: 12.80277156829834px;
+  left: 18.92250633239746px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.icons-path030 {
+  top: 8.360748291015625px;
+  left: 11.297082901000977px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.icons-path031 {
+  top: 7.023715019226074px;
+  left: 27.132837295532227px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-path032 {
+  top: 9.284849166870117px;
+  left: 22.2580509185791px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.icons-path033 {
+  top: 0px;
+  left: 15.081563949584961px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-path034 {
+  top: 4.889354228973389px;
+  left: 14.71245002746582px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.icons-path035 {
+  top: 18.144521713256836px;
+  left: 7.207864761352539px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.icons-path036 {
+  top: 8.345245361328125px;
+  left: 16.373994827270508px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.icons-path037 {
+  top: 17.272085189819336px;
+  left: 16.39426040649414px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.icons-path038 {
+  top: 18.11014747619629px;
+  left: 22.2752628326416px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.icons-path039 {
+  top: 13.884383201599121px;
+  left: 26.212034225463867px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-path040 {
+  top: 14.258879661560059px;
+  left: 30.606168746948242px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path041 {
+  top: 21.12422752380371px;
+  left: 27.164325714111328px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-path042 {
+  top: 27.756959915161133px;
+  left: 7.679432392120361px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path043 {
+  top: 27.722816467285156px;
+  left: 22.98285675048828px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path044 {
+  top: 17.27948760986328px;
+  left: 11.314812660217285px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.icons-path045 {
+  top: 23.840282440185547px;
+  left: 9.300946235656738px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-path046 {
+  top: 28.201139450073242px;
+  left: 15.052633285522461px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-path047 {
+  top: 22.54103660583496px;
+  left: 14.655302047729492px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.icons-path048 {
+  top: 23.81223487854004px;
+  left: 20.59016990661621px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-vimeo {
+  top: 24px;
+  left: 772px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons--torrent {
+  top: 228px;
+  left: 92px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-i-db {
+  top: 160px;
+  left: 772px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box27 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo25 {
+  top: 18px;
+  left: 8px;
+  width: 32px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path049 {
+  top: 0px;
+  left: 0px;
+  width: 3px;
+  height: 12px;
+  position: absolute;
+}
+.icons-path050 {
+  top: 0px;
+  left: 4.666666507720947px;
+  width: 10px;
+  height: 12px;
+  position: absolute;
+}
+.icons-shape19 {
+  top: 0px;
+  left: 16px;
+  width: 7px;
+  height: 12px;
+  position: absolute;
+}
+.icons-shape20 {
+  top: 0px;
+  left: 24.66666603088379px;
+  width: 7px;
+  height: 12px;
+  position: absolute;
+}
+.icons-kfc {
+  top: 364px;
+  left: 636px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box28 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo26 {
+  top: 8px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-shape21 {
+  top: 1.2158992290496826px;
+  left: 1.2354942560195923px;
+  width: 30px;
+  height: 21px;
+  position: absolute;
+}
+.icons-shape22 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.icons-shape23 {
+  top: 1.4451910257339478px;
+  left: 6.4940571784973145px;
+  width: 19px;
+  height: 29px;
+  position: absolute;
+}
+.icons-acrobat {
+  top: 296px;
+  left: 976px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box29 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo27 {
+  top: 8px;
+  left: 8px;
+  width: 32px;
+  height: 31px;
+  position: absolute;
+}
+.icons-messenger {
+  top: 24px;
+  left: 432px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box30 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo28 {
+  top: 8px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-combined-shape {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.icons-upwork {
+  top: 92px;
+  left: 24px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box31 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo29 {
+  top: 16px;
+  left: 8px;
+  width: 32px;
+  height: 20px;
+  position: absolute;
+}
+.icons-metamask {
+  top: 228px;
+  left: 840px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box32 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo30 {
+  top: 9px;
+  left: 8px;
+  width: 32px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-svg106 {
+  top: 0px;
+  left: 17.91655921936035px;
+  width: 13px;
+  height: 9px;
+  position: absolute;
+}
+.icons-svg206 {
+  top: 0px;
+  left: 1.5826632976531982px;
+  width: 12px;
+  height: 9px;
+  position: absolute;
+}
+.icons-svg33 {
+  top: 21.737377166748047px;
+  left: 22.590194702148438px;
+  width: 9px;
+  height: 7px;
+  position: absolute;
+}
+.icons-svg42 {
+  top: 21.737377166748047px;
+  left: 0.25956082344055176px;
+  width: 9px;
+  height: 7px;
+  position: absolute;
+}
+.icons-svg52 {
+  top: 8.700005531311035px;
+  left: 7.0354390144348145px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.icons-svg61 {
+  top: 8.612586975097656px;
+  left: 17.91636848449707px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.icons-svg71 {
+  top: 21.899925231933594px;
+  left: 9.397241592407227px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.icons-svg81 {
+  top: 21.899925231933594px;
+  left: 18.33696174621582px;
+  width: 4px;
+  height: 5px;
+  opacity: 0.80;
+  position: absolute;
+}
+.icons-svg9 {
+  top: 24.800119400024414px;
+  left: 18.33696174621582px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.icons-svg10 {
+  top: 24.800119400024414px;
+  left: 9.397241592407227px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.icons-svg11 {
+  top: 17.837491989135742px;
+  left: 9.891693115234375px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+.icons-svg12 {
+  top: 17.837491989135742px;
+  left: 18.571861267089844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+.icons-svg13 {
+  top: 21.737377166748047px;
+  left: 6.083417892456055px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.icons-svg14 {
+  top: 21.737377166748047px;
+  left: 21.984384536743164px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.icons-svg15 {
+  top: 16.062395095825195px;
+  left: 17.91636848449707px;
+  width: 7px;
+  height: 4px;
+  position: absolute;
+}
+.icons-svg16 {
+  top: 16.062395095825195px;
+  left: 7.0354390144348145px;
+  width: 7px;
+  height: 4px;
+  position: absolute;
+}
+.icons-svg17 {
+  top: 16.062395095825195px;
+  left: 7.035667419433594px;
+  width: 3px;
+  height: 6px;
+  position: absolute;
+}
+.icons-svg18 {
+  top: 16.062395095825195px;
+  left: 22.009321212768555px;
+  width: 3px;
+  height: 6px;
+  position: absolute;
+}
+.icons-svg19 {
+  top: 16.387393951416016px;
+  left: 13.428329467773438px;
+  width: 1px;
+  height: 8px;
+  position: absolute;
+}
+.icons-svg20 {
+  top: 16.387393951416016px;
+  left: 17.57029914855957px;
+  width: 1px;
+  height: 8px;
+  position: absolute;
+}
+.icons-svg21 {
+  top: 19.000019073486328px;
+  left: 17.74342918395996px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.icons-svg22 {
+  top: 19.000019073486328px;
+  left: 9.891693115234375px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.icons-svg23 {
+  top: 26.887479782104492px;
+  left: 9.397241592407227px;
+  width: 13px;
+  height: 3px;
+  position: absolute;
+}
+.icons-svg24 {
+  top: 24.374988555908203px;
+  left: 13.329153060913086px;
+  width: 5px;
+  height: 3px;
+  position: absolute;
+}
+.icons-svg25 {
+  top: 0px;
+  left: 18.33696174621582px;
+  width: 14px;
+  height: 15px;
+  position: absolute;
+}
+.icons-svg26 {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 15px;
+  position: absolute;
+}
+.icons-svg27 {
+  top: 13.037467956542969px;
+  left: 22.009321212768555px;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+}
+.icons-svg28 {
+  top: 13.037467956542969px;
+  left: 0.25956082344055176px;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+}
+.icons-svg29 {
+  top: 3.8499836921691895px;
+  left: 11.758806228637695px;
+  width: 8px;
+  height: 21px;
+  position: absolute;
+}
+.icons-coinbase {
+  top: 228px;
+  left: 772px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-walletconnect {
+  top: 228px;
+  left: 704px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box33 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo31 {
+  top: 14px;
+  left: 8px;
+  width: 32px;
+  height: 20px;
+  position: absolute;
+}
+.icons-tesla {
+  top: 364px;
+  left: 296px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box34 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo32 {
+  top: 10px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-svg207 {
+  top: 3.113036632537842px;
+  left: 1.4045050144195557px;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+}
+.icons-svg107 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 5px;
+  position: absolute;
+}
+.icons-dribbble {
+  top: 92px;
+  left: 364px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box35 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo33 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-dribbble2 {
+  top: 92px;
+  left: 296px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box36 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo34 {
+  top: 8px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.icons-behance {
+  top: 92px;
+  left: 228px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-dropbox {
+  top: 160px;
+  left: 976px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-pay-pal {
+  top: 228px;
+  left: 228px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-uber {
+  top: 364px;
+  left: 432px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box37 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo35 {
+  top: 19px;
+  left: 8px;
+  width: 32px;
+  height: 11px;
+  position: absolute;
+}
+.icons-pintrest {
+  top: 92px;
+  left: 432px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-spotify {
+  top: 160px;
+  left: 840px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-snapchat {
+  top: 24px;
+  left: 296px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-netflix {
+  top: 160px;
+  left: 704px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-amazon {
+  top: 364px;
+  left: 772px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box38 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-svg208 {
+  top: 31.824356079101562px;
+  left: 8px;
+  width: 31px;
+  height: 8px;
+  position: absolute;
+}
+.icons-svg108 {
+  top: 8px;
+  left: 13.872089385986328px;
+  width: 20px;
+  height: 24px;
+  position: absolute;
+}
+.icons-ethereum-eth {
+  top: 228px;
+  left: 976px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box39 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo36 {
+  top: 8px;
+  left: 14px;
+  width: 20px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-svg62 {
+  top: 0px;
+  left: 0.0000800259513198398px;
+  width: 10px;
+  height: 22px;
+  position: absolute;
+}
+.icons-svg53 {
+  top: 0px;
+  left: 9.997026443481445px;
+  width: 10px;
+  height: 22px;
+  position: absolute;
+}
+.icons-svg43 {
+  top: 11.833999633789062px;
+  left: 10px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.icons-svg34 {
+  top: 11.832620620727539px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.icons-svg209 {
+  top: 18.159271240234375px;
+  left: 0.0000800259513198398px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.icons-svg109 {
+  top: 18.159378051757812px;
+  left: 9.997026443481445px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.icons-bitcoin {
+  top: 296px;
+  left: 500px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box40 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo37 {
+  top: 8px;
+  left: 10px;
+  width: 24px;
+  height: 32px;
+  position: absolute;
+}
+.icons-tether {
+  top: 296px;
+  left: 432px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box41 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo38 {
+  top: 10px;
+  left: 8px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.icons-dogecoin {
+  top: 296px;
+  left: 568px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box42 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo39 {
+  top: 8px;
+  left: 9px;
+  width: 30px;
+  height: 32px;
+  position: absolute;
+}
+.icons-shiba {
+  top: 296px;
+  left: 636px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box43 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo40 {
+  top: 6px;
+  left: 7px;
+  width: 34px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-shape24 {
+  top: 0px;
+  left: 2.1923322677612305px;
+  width: 30px;
+  height: 26px;
+  position: absolute;
+}
+.icons-path051 {
+  top: 8.576675415039062px;
+  left: 0px;
+  width: 34px;
+  height: 28px;
+  position: absolute;
+}
+.icons-path052 {
+  top: 1.0655004978179932px;
+  left: 8.732137680053711px;
+  width: 16px;
+  height: 5px;
+  position: absolute;
+}
+.icons-shape25 {
+  top: 20.03699493408203px;
+  left: 2.1819543838500977px;
+  width: 29px;
+  height: 15px;
+  position: absolute;
+}
+.icons-path053 {
+  top: 2.3183913230895996px;
+  left: 3.597486734390259px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.icons-path054 {
+  top: 3.6138343811035156px;
+  left: 25.32331657409668px;
+  width: 5px;
+  height: 8px;
+  position: absolute;
+}
+.icons-path055 {
+  top: 16.107563018798828px;
+  left: 7.853283405303955px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+.icons-path056 {
+  top: 16.051599502563477px;
+  left: 20.45505142211914px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+.icons-path057 {
+  top: 2.31194806098938px;
+  left: 23.86194610595703px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.icons-path058 {
+  top: 12.285446166992188px;
+  left: 21.53355598449707px;
+  width: 4px;
+  height: 3px;
+  position: absolute;
+}
+.icons-path059 {
+  top: 12.284903526306152px;
+  left: 8.495207786560059px;
+  width: 4px;
+  height: 3px;
+  position: absolute;
+}
+.icons-path060 {
+  top: 28.315675735473633px;
+  left: 28.567420959472656px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path061 {
+  top: 28.4282169342041px;
+  left: 28.5390682220459px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path062 {
+  top: 22.441251754760742px;
+  left: 13.502872467041016px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.icons-path063 {
+  top: 29.014318466186523px;
+  left: 15.831585884094238px;
+  width: 3px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path064 {
+  top: 33.94163131713867px;
+  left: 18.470003128051758px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path065 {
+  top: 33.90312576293945px;
+  left: 18.70123291015625px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path066 {
+  top: 28.423282623291016px;
+  left: 28.4813232421875px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path067 {
+  top: 28.562280654907227px;
+  left: 28.337095260620117px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path068 {
+  top: 28.601362228393555px;
+  left: 28.292280197143555px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path069 {
+  top: 28.991472244262695px;
+  left: 27.891942977905273px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path070 {
+  top: 28.489471435546875px;
+  left: 28.40342140197754px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path071 {
+  top: 28.519208908081055px;
+  left: 28.37977409362793px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path072 {
+  top: 28.664159774780273px;
+  left: 28.234142303466797px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path073 {
+  top: 28.67848014831543px;
+  left: 28.220104217529297px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path074 {
+  top: 28.740215301513672px;
+  left: 28.1562557220459px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path075 {
+  top: 28.803585052490234px;
+  left: 28.094301223754883px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path076 {
+  top: 28.81606674194336px;
+  left: 28.081819534301758px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path077 {
+  top: 28.855567932128906px;
+  left: 28.019445419311523px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-path078 {
+  top: 28.938783645629883px;
+  left: 27.935789108276367px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.icons-solana {
+  top: 228px;
+  left: 908px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box44 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo41 {
+  top: 9px;
+  left: 8px;
+  width: 32px;
+  height: 29px;
+  position: absolute;
+}
+.icons-gmail {
+  top: 228px;
+  left: 500px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box45 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo42 {
+  top: 12px;
+  left: 8px;
+  width: 32px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path079 {
+  top: 6.186182022094727px;
+  left: 0px;
+  width: 7px;
+  height: 18px;
+  position: absolute;
+}
+.icons-path080 {
+  top: 6.186182022094727px;
+  left: 24.727272033691406px;
+  width: 7px;
+  height: 18px;
+  position: absolute;
+}
+.icons-path081 {
+  top: 0px;
+  left: 24.727272033691406px;
+  width: 7px;
+  height: 12px;
+  position: absolute;
+}
+.icons-path082 {
+  top: 2.187161684036255px;
+  left: 7.2727274894714355px;
+  width: 17px;
+  height: 16px;
+  position: absolute;
+}
+.icons-path083 {
+  top: 0px;
+  left: 0px;
+  width: 7px;
+  height: 12px;
+  position: absolute;
+}
+.icons-drive {
+  top: 228px;
+  left: 636px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box46 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo43 {
+  top: 9px;
+  left: 8px;
+  width: 32px;
+  height: 29px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path084 {
+  top: 19.705127716064453px;
+  left: 0px;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+}
+.icons-path085 {
+  top: 0.446153849363327px;
+  left: 0px;
+  width: 16px;
+  height: 19px;
+  position: absolute;
+}
+.icons-path086 {
+  top: 19.705127716064453px;
+  left: 21.919084548950195px;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+}
+.icons-path087 {
+  top: 0px;
+  left: 10.959908485412598px;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+}
+.icons-path088 {
+  top: 19.705127716064453px;
+  left: 5.040091514587402px;
+  width: 22px;
+  height: 9px;
+  position: absolute;
+}
+.icons-path089 {
+  top: 0.446153849363327px;
+  left: 16px;
+  width: 16px;
+  height: 19px;
+  position: absolute;
+}
+.icons-space-x {
+  top: 364px;
+  left: 364px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-disney {
+  top: 160px;
+  left: 364px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box47 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo44 {
+  top: 11px;
+  left: 8px;
+  width: 32px;
+  height: 26px;
+  position: absolute;
+}
+.icons-microsoft {
+  top: 364px;
+  left: 976px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box48 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-rectangle {
+  top: 10px;
+  left: 10px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.icons-rectangle1 {
+  top: 10px;
+  left: 25px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.icons-rectangle2 {
+  top: 25px;
+  left: 10px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.icons-rectangle3 {
+  top: 25px;
+  left: 25px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.icons-coca-cola {
+  top: 364px;
+  left: 500px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box49 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo45 {
+  top: 18px;
+  left: 5px;
+  width: 36px;
+  height: 12px;
+  position: absolute;
+}
+.icons-dc {
+  top: 160px;
+  left: 500px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box50 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-shape26 {
+  top: 8px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.icons-hbo {
+  top: 160px;
+  left: 568px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box51 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo46 {
+  top: 18px;
+  left: 10px;
+  width: 32px;
+  height: 13.000001907348633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-fill15 {
+  top: 0.1884094923734665px;
+  left: 0px;
+  width: 9px;
+  height: 13px;
+  position: absolute;
+}
+.icons-fill16 {
+  top: 0px;
+  left: 10.158730506896973px;
+  width: 22px;
+  height: 13px;
+  position: absolute;
+}
+.icons-fill17 {
+  top: 0.1884094923734665px;
+  left: 30.41269874572754px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.icons-vb {
+  top: 160px;
+  left: 636px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box52 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo47 {
+  top: 9px;
+  left: 11px;
+  width: 25.999860763549805px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path090 {
+  top: 6.0708465576171875px;
+  left: 15.88523006439209px;
+  width: 4px;
+  height: 7px;
+  position: absolute;
+}
+.icons-path091 {
+  top: 13.649531364440918px;
+  left: 15.890252113342285px;
+  width: 4px;
+  height: 9px;
+  position: absolute;
+}
+.icons-shape27 {
+  top: 0px;
+  left: 0px;
+  width: 26px;
+  height: 32px;
+  position: absolute;
+}
+.icons-marvel {
+  top: 160px;
+  left: 432px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box53 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo48 {
+  top: 18px;
+  left: 6px;
+  width: 36px;
+  height: 13px;
+  position: absolute;
+}
+.icons-fiverr {
+  top: 92px;
+  left: 92px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box54 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo21 {
+  top: 10px;
+  left: 13px;
+  width: 22px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-logo49 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 28px;
+  position: absolute;
+}
+.icons-linkedin {
+  top: 24px;
+  left: 364px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-starbucks {
+  top: 364px;
+  left: 840px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box55 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo50 {
+  top: 1.431335687637329px;
+  left: 0px;
+  width: 48px;
+  height: 47px;
+  position: absolute;
+}
+.icons-cnn {
+  top: 160px;
+  left: 296px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box56 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo51 {
+  top: 18px;
+  left: 8px;
+  width: 32px;
+  height: 14px;
+  position: absolute;
+}
+.icons-pay-pal2 {
+  top: 228px;
+  left: 160px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-apple {
+  top: 364px;
+  left: 908px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-play {
+  top: 228px;
+  left: 568px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box57 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo52 {
+  top: 8px;
+  left: 12px;
+  width: 29px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path092 {
+  top: 0.40086159110069275px;
+  left: 0px;
+  width: 16px;
+  height: 31px;
+  position: absolute;
+}
+.icons-path093 {
+  top: 10.674098014831543px;
+  left: 16.236177444458008px;
+  width: 13px;
+  height: 11px;
+  position: absolute;
+}
+.icons-path094 {
+  top: 15.995329856872559px;
+  left: 0.5733733177185059px;
+  width: 21px;
+  height: 16px;
+  position: absolute;
+}
+.icons-path095 {
+  top: 0px;
+  left: 0.5733733177185059px;
+  width: 21px;
+  height: 16px;
+  position: absolute;
+}
+.icons-medium {
+  top: 24px;
+  left: 840px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box58 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo53 {
+  top: 15px;
+  left: 8px;
+  width: 32px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path096 {
+  top: 0px;
+  left: 0px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.icons-path097 {
+  top: 0.5278316736221313px;
+  left: 18.925416946411133px;
+  width: 9px;
+  height: 17px;
+  position: absolute;
+}
+.icons-path098 {
+  top: 1.409271001815796px;
+  left: 28.825742721557617px;
+  width: 3px;
+  height: 15px;
+  position: absolute;
+}
+.icons-word-press {
+  top: 92px;
+  left: 976px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box59 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo22 {
+  top: 6px;
+  left: 6px;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-logo54 {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.icons-git-hub {
+  top: 92px;
+  left: 1044px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-electronic-arts {
+  top: 160px;
+  left: 228px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box60 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo55 {
+  top: 16px;
+  left: 7px;
+  width: 34px;
+  height: 16px;
+  position: absolute;
+}
+.icons-steam {
+  top: 160px;
+  left: 24px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box61 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo56 {
+  top: 9px;
+  left: 0px;
+  width: 41px;
+  height: 31px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-combined-shape1 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 31px;
+  position: absolute;
+}
+.icons-path099 {
+  top: 4.50544548034668px;
+  left: 27.391000747680664px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.icons-git-hub1 {
+  top: 24px;
+  left: 704px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box62 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo57 {
+  top: 11px;
+  left: 11px;
+  width: 26px;
+  height: 31px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path100 {
+  top: 0px;
+  left: 0px;
+  width: 26px;
+  height: 31px;
+  position: absolute;
+}
+.icons-path101 {
+  top: 2.2142856121063232px;
+  left: 6.5px;
+  width: 17px;
+  height: 21px;
+  position: absolute;
+}
+.icons-shape28 {
+  top: 6.642857074737549px;
+  left: 13px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.icons-blizzard {
+  top: 160px;
+  left: 92px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box63 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo58 {
+  top: 16px;
+  left: 6px;
+  width: 35px;
+  height: 16px;
+  position: absolute;
+}
+.icons-battlenet {
+  top: 160px;
+  left: 160px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box64 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo59 {
+  top: 9px;
+  left: 8px;
+  width: 32px;
+  height: 31px;
+  position: absolute;
+}
+.icons-sound-cloud {
+  top: 160px;
+  left: 908px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box65 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-cloud {
+  top: 16px;
+  left: 6px;
+  width: 36px;
+  height: 16px;
+  position: absolute;
+}
+.icons-reddit {
+  top: 24px;
+  left: 908px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box66 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo60 {
+  top: 10px;
+  left: 8px;
+  width: 32px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-logo61 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 28px;
+  position: absolute;
+}
+.icons-live-journal {
+  top: 24px;
+  left: 976px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box67 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo62 {
+  top: 7px;
+  left: 7px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path102 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.icons-path103 {
+  top: 3.2893590927124023px;
+  left: 3.295142889022827px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.icons-path104 {
+  top: 19.596866607666016px;
+  left: 19.61210823059082px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.icons-path105 {
+  top: 15.446059226989746px;
+  left: 15.484597206115723px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.icons-google {
+  top: 228px;
+  left: 432px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box68 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo63 {
+  top: 8px;
+  left: 7.999998092651367px;
+  width: 31px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-svg110 {
+  top: 13.333333015441895px;
+  left: 15.836525917053223px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.icons-svg210 {
+  top: 19.053333282470703px;
+  left: 1.702426552772522px;
+  width: 25px;
+  height: 13px;
+  position: absolute;
+}
+.icons-svg35 {
+  top: 8.826666831970215px;
+  left: 0px;
+  width: 7px;
+  height: 14px;
+  position: absolute;
+}
+.icons-svg44 {
+  top: 0px;
+  left: 1.702426552772522px;
+  width: 25px;
+  height: 13px;
+  position: absolute;
+}
+.icons-lightroom {
+  top: 364px;
+  left: 160px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box69 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo64 {
+  top: 14px;
+  left: 12px;
+  width: 25px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path106 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 20px;
+  position: absolute;
+}
+.icons-path107 {
+  top: 4.515434265136719px;
+  left: 15.469732284545898px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+}
+.icons-in-design {
+  top: 364px;
+  left: 228px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box70 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo65 {
+  top: 14px;
+  left: 15px;
+  width: 19px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path108 {
+  top: 1.4864014387130737px;
+  left: 0px;
+  width: 4px;
+  height: 18px;
+  position: absolute;
+}
+.icons-shape29 {
+  top: 0px;
+  left: 6.377696990966797px;
+  width: 13px;
+  height: 20px;
+  position: absolute;
+}
+.icons-us-coin-usdc {
+  top: 296px;
+  left: 24px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box71 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo66 {
+  top: 9px;
+  left: 8px;
+  width: 32px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path109 {
+  top: 0px;
+  left: 0px;
+  width: 12px;
+  height: 30px;
+  position: absolute;
+}
+.icons-path110 {
+  top: 4.566442966461182px;
+  left: 9.777777671813965px;
+  width: 12px;
+  height: 21px;
+  position: absolute;
+}
+.icons-path111 {
+  top: 0.045234616845846176px;
+  left: 19.91111183166504px;
+  width: 12px;
+  height: 30px;
+  position: absolute;
+}
+.icons-avalanche-avax {
+  top: 296px;
+  left: 160px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-pancake-swap-cake {
+  top: 296px;
+  left: 296px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.icons-box72 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.icons-logo67 {
+  top: 8.160300254821777px;
+  left: 8.795149803161621px;
+  width: 30.291149139404297px;
+  height: 31.777149200439453px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.icons-path112 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 32px;
+  position: absolute;
+}
+.icons-path113 {
+  top: 1.166100025177002px;
+  left: 1.325350046157837px;
+  width: 28px;
+  height: 29px;
+  position: absolute;
+}
+.icons-path114 {
+  top: 20.277799606323242px;
+  left: 1.325350046157837px;
+  width: 28px;
+  height: 10px;
+  position: absolute;
+}
+.icons-path115 {
+  top: 16.49864959716797px;
+  left: 8.251500129699707px;
+  width: 3px;
+  height: 5px;
+  position: absolute;
+}
+.icons-path116 {
+  top: 16.49864959716797px;
+  left: 18.811649322509766px;
+  width: 3px;
+  height: 5px;
+  position: absolute;
+}
